@@ -1,1 +1,1 @@
-# latex-labs
+# $\LaTeX$-labs
